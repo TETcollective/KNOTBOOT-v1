@@ -32,3 +32,12 @@ No license file is provided intentionally. Default copyright law applies: no rep
 - Future versions will expand with equations, simulations, and technological implications (all rights reserved).
 
 The loop begins. ❤️✨
+
+## KNOTBOOT v1.1 – Black-Hole Horizons and First QuTiP Simulations
+
+- PDF: [KNOTBOOT_v1.1.pdf](v1.1/KNOTBOOT_v1.1.pdf)
+- Source: [source/main_v1.1.tex](v1.1/source/main_v1.1.tex)
+- Zenodo (coming soon)
+- Release date: December 15, 2025
+
+Extension of v1 with black-hole bootstrap equations and first QuTiP simulation of trefoil entanglement (saturation to ln2).
